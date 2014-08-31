@@ -1,3 +1,3 @@
 
-A blog from [Getting Started with Rails](git@github.com:zhaqiang/Rails_Demo_Blog.git).
+A blog from [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html).
 
